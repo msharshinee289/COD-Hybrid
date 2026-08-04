@@ -1,0 +1,25 @@
+# .gitignore
+
+# Datasets — too large for GitHub
+data/datasets/
+
+# Checkpoints — too large for GitHub
+checkpoints/
+
+# Logs and visualizations
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
